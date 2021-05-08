@@ -5,7 +5,7 @@
 # UTILIZZO DEL SITO
 Il sito è costituito da tre pagine principal:
   - PRIMA PAGINA: login <br/>
-    <img src="https://www.servizi-web-marketing.it/images/stories/news/immaginedascaricare.jpg"/>
+    <img src="https://www.servizi-web-marketing.it/images/stories/news/immaginedascaricare.jpg" width=600 />
   - SECONDA PAGINA: la home, dove vengono visualizzati i vari piani, presenti all'interno della scuola
   - TERZA PAGINA: aule, che si accede cliccando su un bottone chiamato piano e numero,e una volta entrati all'interno si visualizzano le varie aule del sito, cliccando su di         esse verranno visualizzate le varie sezioni da pulire(lavagna, banchi e pavimento), le quali se pulite verranno ceccate e in seguito salvate
 
