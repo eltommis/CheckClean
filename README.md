@@ -9,7 +9,7 @@ Il sito è costituito da tre pagine principal:
   - SECONDA PAGINA: la home, dove vengono visualizzati i vari piani, presenti all'interno della scuola
   - TERZA PAGINA: aule, che si accede cliccando su un bottone chiamato piano e numero,e una volta entrati all'interno si visualizzano le varie aule del sito, cliccando su di         esse verranno visualizzate le varie sezioni da pulire(lavagna, banchi e pavimento), le quali se pulite verranno ceccate e in seguito salvate
 
-Il sito è suddivo in due parti:
+Il [sito](http://34.107.106.86/index.php) è suddivo in due parti:
 
 - La parte dell'amministratore, esso dovrà loggarsi attraverso le credenziali fornite, una volta all'interno del sito si troverà davanti i vari piani ed una sezione 
 nominata opzioni amministratore. Se entrarà all'interno del piano ha la possibilità di visualizzare ciò che è stato pulito, mediante la grafica del nostro sito la quale si basa
