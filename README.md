@@ -1,5 +1,5 @@
 # CHECKCLEAN
-  >CheckClean è un sito internet creato per la gestione della pulizia delle aule da parte del personale ATA all'interno dell'Istituto.
+  CheckClean è un sito internet creato per la gestione della pulizia delle aule da parte del personale ATA all'interno dell'Istituto.
   Il progetto è stato completato ed ora è funzionante e disponibile per l'utilizzo.
 
 # UTILIZZO DEL SITO
