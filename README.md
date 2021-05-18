@@ -27,7 +27,6 @@ una volta scelto si troveranno nella pgina aule , in cui vengono visualizzate le
 - arancio: l'aula è stata pulita in parte  
 - verde: l'aula è stata pulita totalmente
 
-
 # TECNOLOGIE UTILIZZATE
 Il progetto è stato creato utilizzando i seguenti linguaggi di programmazione:
 - HTML:utilizzato per la struttura del sito
@@ -36,4 +35,13 @@ Il progetto è stato creato utilizzando i seguenti linguaggi di programmazione:
 - JAVASCRIPT: utilizzato per eseguire varie funzioni, come per esempio: scorrimento pagine, data e ora.
 - BOOTSTRAP: utilizzato per avere una base iniziale su cui dopo creare il sito
 - MySQL: utilizzato per la creazione dei database
+
+
+# ORGANIZZAIONE
+Modello WBS(Work Breakdown Structure), per rappresentare la scomposizione gerarchica delle fasi di un progetto
+<br>![Cattura](https://user-images.githubusercontent.com/77326242/118620777-1c3b7b80-b7c6-11eb-81d2-417d7d8c175f.PNG)<br>
+
+Modello di Gantt, per la pianificazione dei tempi
+<br>![Gant](https://user-images.githubusercontent.com/77326242/118620791-1fcf0280-b7c6-11eb-9ee6-b8455254db67.PNG)<br>
+
 
